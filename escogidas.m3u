@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",Furiosa (2024) BluRay 720pRip [7.6]
-http://192.168.1.13:6878/ace/getstream?id=00d55fc5ba6458a9fb9723228081964c491cf500
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",Furiosa (2024) BluRay 1080Rip [7.6]
-http://192.168.1.13:6878/ace/getstream?id=dc698df2cf2cc991b3a33fe4dc786bf732ffe70d
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",Furiosa (2024) BluRay 4k 2160P [7.6]
-http://192.168.1.13:6878/ace/getstream?id=08f54a13c54f47bd21be8ee46f0e3da7d25b46b2
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg",Sala de profesores (2024) BluRay Rip [7.3]
 http://192.168.1.13:6878/ace/getstream?id=41712335e4206bea0689d0cab42a57898f023879
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg",Sala de profesores (2024) BluRay 720pRip [7.3]
@@ -40,13 +33,6 @@ http://192.168.1.13:6878/ace/getstream?id=e3b85904b95166f3d87ca6ca62796c0a6d5ed4
 http://192.168.1.13:6878/ace/getstream?id=fd1746e459ab76228f8dc6f30f8109ee5868a7f1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcnYHu131GJsme6Lgn5HQ9OWqTt.jpg",Robot Dreams (2024) Web dl Hd 1080p  [7.2]
 http://192.168.1.13:6878/ace/getstream?id=3f712d6f6b3b4676e04967c96f05eb5e6eb713b6
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",Dune Parte dos (2024) BluRay Rip [8.3]
-http://192.168.1.13:6878/ace/getstream?id=a094e9c2b76138c5786e2211aa9138d76bba9194
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",Dune Parte dos (2024) BluRay 720pRip [8.3]
-http://192.168.1.13:6878/ace/getstream?id=178cb7a943c1b4f524b7f593b3a7570178e3e3f7
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",Dune Parte dos (2024) BluRay 4k 2160P [8.3]
-http://192.168.1.13:6878/ace/getstream?id=b976e441fe6045eb4a8a17e187d1c75df9b2c4ce
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gavGnAMTXPkpoFgG0stwgIgKb64.jpg",Dos chicas a la fuga (2024) BluRay Rip [5.6]
 http://192.168.1.13:6878/ace/getstream?id=43dafff951d94cd947903aaa7bd4de52c3fde73a
