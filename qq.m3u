@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 ,Movistar Estrenos (FHD)
+http://vlc.shickat.me:8000/pid/5d35f906b735f25164fa2b9b7a4e6ef91dfed131/stream.mp4
+#EXTINF:-1 ,Movistar Documentales (FHD)
+http://vlc.shickat.me:8000/pid/b3fc9b5647c5933b101c0b6b64322590c68587b9/stream.mp4
+#EXTINF:-1 ,Movistar Originales (FHD)
+http://vlc.shickat.me:8000/pid/096b817fcc836535f608facb15fca6408fae3162/stream.mp4
+#EXTINF:-1 ,Movistar Cine Español (FHD)
+http://vlc.shickat.me:8000/pid/e4bce95dd4faeb9cb09ade36a0636bc4b22b691c/stream.mp4
+#EXTINF:-1 ,Movistar Vacaciones (FHD)
+http://vlc.shickat.me:8000/pid/cf99e99c105162410ec6d1f68cc6f4811560fee7/stream.mp4
+#EXTINF:-1 ,Movistar Cómic (FHD)
+http://vlc.shickat.me:8000/pid/4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2/stream.mp4
+#EXTINF:-1 ,Movistar Indie (FHD)
+http://vlc.shickat.me:8000/pid/7716c9fd5bd4413715e4e26f97efb91802f6ee80/stream.mp4
+#EXTINF:-1 ,Movistar Acción (FHD)
+http://vlc.shickat.me:8000/pid/089673779de9fa7a18ac8dc26eb4a79cf5a86f96/stream.mp4
+#EXTINF:-1 ,Movistar Comedia (FHD)
+http://vlc.shickat.me:8000/pid/cf0cb321eed6765c2eadbd9983570f6674ce5df6/stream.mp4
+#EXTINF:-1 ,Movistar Drama (FHD)
+http://vlc.shickat.me:8000/pid/a6de6a4977d7801bbddc9c7739d822f4beb358ae/stream.mp4
+#EXTINF:-1 ,Movistar Hits (FHD)
+http://vlc.shickat.me:8000/pid/50553edb5e8c54d15e0d43161369b3b4cef95065/stream.mp4
+#EXTINF:-1 ,Movistar Clásicos (FHD)
+http://vlc.shickat.me:8000/pid/6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae/stream.mp4
