@@ -1,7 +1,8 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 ,Shitckat 2horas
+#EXTM3U 
+#EXTINF:-1 ,Shitckat-1 2horas
 http://vlc.shickat.me:8000/pid/404c239e5355b75fe336eb4bc83bca9903b4b4da/stream.mp4
+#EXTINF:-1 ,Shitckat-2 2horas
+http://vlc.shickat.me:8000/pid/b544a2d1cdbe8c0984e1584bb98df74939954802/stream.mp4
 #EXTINF:-1 ,Movistar Estrenos (FHD)
 http://vlc.shickat.me:8000/pid/5d35f906b735f25164fa2b9b7a4e6ef91dfed131/stream.mp4
 #EXTINF:-1 ,Movistar Documentales (FHD)
@@ -26,5 +27,6 @@ http://vlc.shickat.me:8000/pid/a6de6a4977d7801bbddc9c7739d822f4beb358ae/stream.m
 http://vlc.shickat.me:8000/pid/50553edb5e8c54d15e0d43161369b3b4cef95065/stream.mp4
 #EXTINF:-1 ,Movistar Clásicos (FHD)
 http://vlc.shickat.me:8000/pid/6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae/stream.mp4
+
 
 
