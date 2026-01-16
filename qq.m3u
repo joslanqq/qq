@@ -1,10 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 ,PlayBoy
-http://vlc.shickat.me:8000/pid/0d57aa8c7ba0859987d24105bc3eb9e249921787/stream.mp4
-#EXTINF:-1 ,eros
-http://vlc.shickat.me:8000/pid/6d09d5e671cba713e0f2ea6b2d4a3e9424d76f12/stream.mp4
-#EXTINF:-1 ,PorClasicos
-http://vlc.shickat.me:8000/pid/540fe1b328fcdff5193d11d0595acfc5762822e0/stream.mp4
 #EXTINF:-1 ,Movistar Estrenos (FHD)
 http://vlc.shickat.me:8000/pid/5d35f906b735f25164fa2b9b7a4e6ef91dfed131/stream.mp4
 #EXTINF:-1 ,Movistar Documentales (FHD)
@@ -29,6 +23,7 @@ http://vlc.shickat.me:8000/pid/a6de6a4977d7801bbddc9c7739d822f4beb358ae/stream.m
 http://vlc.shickat.me:8000/pid/50553edb5e8c54d15e0d43161369b3b4cef95065/stream.mp4
 #EXTINF:-1 ,Movistar Clásicos (FHD)
 http://vlc.shickat.me:8000/pid/6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae/stream.mp4
+
 
 
 
