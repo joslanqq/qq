@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg", Sala de profesores (2024) BluRay Rip [7.3]
-http://192.168.1.13:6878/ace/getstream?id=41712335e4206bea0689d0cab42a57898f023879
+http://192.168.1.234:6878/ace/getstream?id=41712335e4206bea0689d0cab42a57898f023879
 #EXTINF:0 type="stream" channelId="-1" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg", Sala de profesores (2024) BluRay 720pRip [7.3]
-http://192.168.1.13:6878/ace/getstream?id=5079d86d59ff3c07c432d6e93119a1e34de98045
+http://192.168.1.234:6878/ace/getstream?id=5079d86d59ff3c07c432d6e93119a1e34de98045
 #EXTINF:0 type="stream" channelId="-1" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcnYHu131GJsme6Lgn5HQ9OWqTt.jpg", Robot Dreams (2024) BluRay 720pRip [7.2]
-http://192.168.1.13:6878/ace/getstream?id=fd1746e459ab76228f8dc6f30f8109ee5868a7f1
+http://192.168.1.234:6878/ace/getstream?id=fd1746e459ab76228f8dc6f30f8109ee5868a7f1
 #EXTINF:0 type="stream" channelId="-1" logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcnYHu131GJsme6Lgn5HQ9OWqTt.jpg", Robot Dreams (2024) Web dl Hd 1080p  [7.2]
-http://192.168.1.13:6878/ace/getstream?id=3f712d6f6b3b4676e04967c96f05eb5e6eb713b6
+http://192.168.1.234:6878/ace/getstream?id=3f712d6f6b3b4676e04967c96f05eb5e6eb713b6
