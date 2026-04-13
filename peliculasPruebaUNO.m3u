@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",Destino Titan (2025) BluRay Rip [6.1]
+http://192.168.1.200:6878/ace/getstream?id=fb99658c00a4bc7bf2fc4cd7787d082ca311aa1c
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",Destino Titan (2025) BluRay 720pRip [6.1]
+http://192.168.1.200:6878/ace/getstream?id=603d6acb0460a7336cc70dd55fe1bcfc2e52e8b1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",Destino Titan (2025) BluRay 1080Rip [6.1]
+http://192.168.1.200:6878/ace/getstream?id=7234d9aaea9030b4e04d66e01e4a005ad36224b4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",Destino Titan (2025) BluRay 4k 2160P [6.1]
+http://192.168.1.200:6878/ace/getstream?id=9102f6e898225feb35b11f489a15be87724d9589
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",Destino Titan (2025) Web dl Hd 1080p  [6.1]
+http://192.168.1.200:6878/ace/getstream?id=532ca1c3a5134c014c5431853fdc60bfdf37fdcb
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg",Pideme Lo Que Quieras (2025) BluRay Rip [6.0]
+http://192.168.1.200:6878/ace/getstream?id=6e480fe9fadc252c0e3f0ab63a42fd3ff1701ddc
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg",Pideme Lo Que Quieras (2025) BluRay 720pRip [6.0]
+http://192.168.1.200:6878/ace/getstream?id=a7aaf35840d1677d0943205006ab4d58b6b060de
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76qnVxU2rPdVvipBN3DPQH6fVYB.jpg",Pideme Lo Que Quieras (2025) BluRay 1080Rip [6.0]
+http://192.168.1.200:6878/ace/getstream?id=013f9355c0f538961107caebd880e364c3ced594
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shQW1KFEAEHCX9GytczYCDSXG6L.jpg",Promesas Del Corazon  (2025) BluRay Rip [7.0]
+http://192.168.1.200:6878/ace/getstream?id=afdbcacb7d6a8c77c310e9e1eefc86dfd68041e4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shQW1KFEAEHCX9GytczYCDSXG6L.jpg",Promesas Del Corazon  (2025) BluRay 720pRip [7.0]
+http://192.168.1.200:6878/ace/getstream?id=6995cb722319496e45eac7c4cef198f2fd1e044d
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shQW1KFEAEHCX9GytczYCDSXG6L.jpg",Promesas Del Corazon  (2025) Web dl Hd 1080p  [7.0]
+http://192.168.1.200:6878/ace/getstream?id=17e05f0df31414ab7cc869917608f2b6325d2471
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmF2wScZgC1t24D2F4yIoNBtFd.jpg",Quien es quien (2025) BluRay Rip [5.0]
+http://192.168.1.200:6878/ace/getstream?id=3ed01934bd58a33e5db667688ea98edaac88b602
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmF2wScZgC1t24D2F4yIoNBtFd.jpg",Quien es quien (2025) BluRay 720pRip [5.0]
+http://192.168.1.200:6878/ace/getstream?id=178ec9f62c03c2327be3cfa51830a27c325fe953
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmF2wScZgC1t24D2F4yIoNBtFd.jpg",Quien es quien (2025) Web dl Hd 1080p  [5.0]
+http://192.168.1.200:6878/ace/getstream?id=b2a62e6e2e7bd794755eef0229e2732406dbf950
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2fjwx6SzXLSfeT0UCUwlPKHGrT3.jpg",El artista del cristal (2025) BluRay Rip [8.0]
+http://192.168.1.200:6878/ace/getstream?id=5741027e7904ca69512cbb45ecd6855c24eef56e
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2fjwx6SzXLSfeT0UCUwlPKHGrT3.jpg",El artista del cristal (2025) BluRay 720pRip [8.0]
+http://192.168.1.200:6878/ace/getstream?id=5122b514b0e4afb3aab522396c33cd97c8a5fa53
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2fjwx6SzXLSfeT0UCUwlPKHGrT3.jpg",El artista del cristal (2025) Web dl Hd 1080p  [8.0]
+http://192.168.1.200:6878/ace/getstream?id=1bdfab51c6c14c51a0f33bcfbd77c849e446addb
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvTlXCh0XKukjsQtFGC4qtnO6Cz.jpg",Winner (2025) BluRay Rip [6.8]
+http://192.168.1.200:6878/ace/getstream?id=39b8cbf9c319b08dab8131b6f6497a2dc5a56b79
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvTlXCh0XKukjsQtFGC4qtnO6Cz.jpg",Winner (2025) BluRay 720pRip [6.8]
+http://192.168.1.200:6878/ace/getstream?id=ceaf97bcab6b357ff8e197d96f56a5ce357c3b7b
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvTlXCh0XKukjsQtFGC4qtnO6Cz.jpg",Winner (2025) BluRay 1080Rip [6.8]
+http://192.168.1.200:6878/ace/getstream?id=40ab92486a02eb9d2ce72195b26e35c5f03519cf
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvTlXCh0XKukjsQtFGC4qtnO6Cz.jpg",Winner (2025) BluRay 4k 2160P [6.8]
+http://192.168.1.200:6878/ace/getstream?id=221af2776c3d2a9b27808c22170c45fd89e70de8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvTlXCh0XKukjsQtFGC4qtnO6Cz.jpg",Winner (2025) Web dl Hd 1080p  [6.8]
+http://192.168.1.200:6878/ace/getstream?id=02f5d7ce2e77a28c149e760bc572ac0911456de6
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svlDdCrU3nuoHPfHwjY1ByAsk6.jpg",Los silenciosos (2025) BluRay Rip [5.0]
+http://192.168.1.200:6878/ace/getstream?id=faf20f5ae9511aced15e1ad93546a5361d588742
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svlDdCrU3nuoHPfHwjY1ByAsk6.jpg",Los silenciosos (2025) BluRay 720pRip [5.0]
+http://192.168.1.200:6878/ace/getstream?id=c1a9bda41828a7fd035361dbda686dca224ce1a5
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5svlDdCrU3nuoHPfHwjY1ByAsk6.jpg",Los silenciosos (2025) BluRay 1080Rip [5.0]
+http://192.168.1.200:6878/ace/getstream?id=0d741146ce8357ff89a7c1f486f2ab1ac4cf7169
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLpIMf6jfdWg9mxIm8RP5uzdp47.jpg",Alexander y un viaje terrible  (2025) BluRay Rip [7.8]
+http://192.168.1.200:6878/ace/getstream?id=37e5e89334aea62fee284b1c9db58ac04077222a
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLpIMf6jfdWg9mxIm8RP5uzdp47.jpg",Alexander y un viaje terrible  (2025) BluRay 720pRip [7.8]
+http://192.168.1.200:6878/ace/getstream?id=9965647f0fde410702f95117287c803a73b10c4e
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",Holland (2025) BluRay Rip [6.0]
+http://192.168.1.200:6878/ace/getstream?id=3e0a1b39e0fabd6ef535ad233fb47b7b15261897
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",Holland (2025) BluRay 720pRip [6.0]
+http://192.168.1.200:6878/ace/getstream?id=ae88b2cefc2aecbc39a432373c179af985b58119
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",Holland (2025) BluRay 1080Rip [6.0]
+http://192.168.1.200:6878/ace/getstream?id=3f7b09714864a2da35841fa334c7049494560f02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",Holland (2025) BluRay 4k 2160P [6.0]
+http://192.168.1.200:6878/ace/getstream?id=5d3f0d27df0549fa45eee6c063c6b42f19a98db4
