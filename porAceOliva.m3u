@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,clasicos
-http://10.76.115.89:6878/ace/getstream?id=540fe1b328fcdff5193d11d0595acfc5762822e0
+http://OLIVA.local:6878/ace/getstream?id=540fe1b328fcdff5193d11d0595acfc5762822e0
 #EXTINF:-1,playBoy
 http://10.76.115.89:6878/ace/getstream?id=0d57aa8c7ba0859987d24105bc3eb9e249921787
 #EXTINF:-1,eros
