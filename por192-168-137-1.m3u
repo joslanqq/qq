@@ -20,4 +20,4 @@ http://192.168.137.1:6878/ace/getstream?id=7a85daea12fe0010d3a26bc16f3bd3952d861
 #EXTINF:-1,kaoopy
 http://192.168.137.1:6878/ace/getstream?id=5f657a0b1e052f57ba0994a42c6afeed04febab1
 #EXTINF:-1,jenny
-http://OLIVA.local:6878/ace/getstream?id=338ff4c876df8869a2466e88c9a7df014496e2f4
+http://192.168.137.1:6878/ace/getstream?id=338ff4c876df8869a2466e88c9a7df014496e2f4
