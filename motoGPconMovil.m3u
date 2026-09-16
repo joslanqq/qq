@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="G.P.", *motoGP*
+#EXTINF:-1 group-title="G.P.", motoGP10.166.66.238
+http://10.166.66.238:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
+#EXTINF:-1 group-title="G.P.", motoGP192.168.137.1
+http://192.168.137.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
+#EXTINF:-1 group-title="G.P.", motoGPxxx
 http://10.166.66.238:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
