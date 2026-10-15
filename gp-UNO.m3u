@@ -11,3 +11,7 @@ http://192.168.1.11:6878/ace/getstream?id=063ee4ffa4676940f14a85e24f928cc1c9d6ae
 http://192.168.1.11:6878/ace/getstream?id=b18dda520e112e48a33d6d0ae558681b9ecfbb4d
 #EXTINF:-1, gp3
 http://192.168.1.11:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
+#EXTINF:-1, champions
+http://192.168.1.11:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+#EXTINF:-1, tenis
+http://192.168.1.11:6878/ace/getstream?id=a4cbadd19442b800727be713270fa9c917cc8582
