@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1,clasicos
-http://127.0.0.1:6878/ace/getstream?id=5dc05d8801f1e6834f1f59da2e8f7adc17fa6fd3&pid=38682
+http://192.168.1.178:6878/ace/getstream?id=5dc05d8801f1e6834f1f59da2e8f7adc17fa6fd3&pid=38682
 #EXTINF:-1,docs
-http://127.0.0.1:6878/ace/getstream?id=3c1b00267a398093848ded743cfdb547e2232216&pid=33478
+http://192.168.1.178:6878/ace/getstream?id=3c1b00267a398093848ded743cfdb547e2232216&pid=33478
 #EXTINF:-1,docs
-http://127.0.0.1:6878/ace/getstream?id=6317bdcbe852dce829e5c647cce4da04a7dcb7f5&pid=33358
+http://192.168.1.178:6878/ace/getstream?id=6317bdcbe852dce829e5c647cce4da04a7dcb7f5&pid=33358
 #EXTINF:-1,hits
-http://127.0.0.1:6878/ace/getstream?id=bb78482832c454dfbb932912d65726619f924873&pid=27429
+http://192.168.1.178:6878/ace/getstream?id=bb78482832c454dfbb932912d65726619f924873&pid=27429
 #EXTINF:-1,hits
-http://127.0.0.1:6878/ace/getstream?id=0bb012ac0e815b413831687a4a9b61777b3338f4&pid=2748
+http://192.168.1.178:6878/ace/getstream?id=0bb012ac0e815b413831687a4a9b61777b3338f4&pid=2748
