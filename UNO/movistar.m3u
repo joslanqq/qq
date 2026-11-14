@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,clasicos
+#EXTINF:-1,clasicos 6fd3
 http://192.168.1.11:6878/ace/getstream?id=5dc05d8801f1e6834f1f59da2e8f7adc17fa6fd3&pid=38682
 #EXTINF:-1,docs1 3221
 http://192.168.1.11:6878/ace/getstream?id=3c1b00267a398093848ded743cfdb547e2232216&pid=33478
