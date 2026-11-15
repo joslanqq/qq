@@ -10,4 +10,4 @@ http://192.168.1.11:6878/ace/getstream?id=bb78482832c454dfbb932912d65726619f9248
 #EXTINF:-1,hits2 38f4
 http://192.168.1.11:6878/ace/getstream?id=0bb012ac0e815b413831687a4a9b61777b3338f4&pid=2748
 #EXTINF:-1,español ccb72
-http://127.0.0.1:6878/ace/getstream?id=dc044c79fcde8ed69ed4c878643b09f09e7ccb72&pid=818
+http://192.168.1.11:6878/ace/getstream?id=dc044c79fcde8ed69ed4c878643b09f09e7ccb72&pid=818
