@@ -32,6 +32,8 @@ http://127.0.0.1:6878/ace/getstream?id=60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce&
 http://127.0.0.1:6878/ace/getstream?id=fc469b1e22f9a75bf7079995876955b9b293ef7e&pid=48937
 #EXTINF:-1,indie 271f
 http://127.0.0.1:6878/ace/getstream?id=205cf36437bf4e0643398f62f212832d4b8e271f&pid=35200
+#EXTINF:-1,acción 905d
+http://127.0.0.1:6878/ace/getstream?id=f3a6d058791f0818a3301f9d5eeb60cfb54d905d&pid=47860
 
 #EXTINF:-1, HLC docs1 3221
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=3c1b00267a398093848ded743cfdb547e2232216&pid=33478
@@ -58,4 +60,7 @@ http://127.0.0.1:6878/ace/manifest.m3u8?content_id=e8cd9088fee41413df360e4539c9e
 #EXTINF:-1, HLC originales c1ce
 http://127.0.0.1:6878/ace/manifest.m3u8?content_id=60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce&pid=26418
 #EXTINF:-1, HLC drama ef7e
-http://127.0.0.1:6878/ace/manifest.m3u8?content_id=fc469b1e22f9a75bf707999
+http://127.0.0.1:6878/ace/manifest.m3u8?content_id=fc469b1e22f9a75bf7079995876955b9b293ef7e&pid=48937
+#EXTINF:-1,acción 905d
+http://127.0.0.1:6878/ace/manifest.m3u8?content_id=f3a6d058791f0818a3301f9d5eeb60cfb54d905d&pid=47860
+
